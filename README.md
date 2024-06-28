@@ -1,4 +1,4 @@
-# Flutter GIFs App  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+# App Search GIFs   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Descrição
 Este é um aplicativo Flutter que consome a API de GIFs do GIPHY. Ele permite que os usuários busquem GIFs e compartilhem-nos de duas maneiras: segurando o GIF por um tempo ou clicando no GIF e depois no botão de compartilhar. Esse projeto foi feito com objeto de praticar e aprimorar habilidades no uso do Flutter
