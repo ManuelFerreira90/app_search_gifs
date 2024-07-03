@@ -21,7 +21,7 @@ Este é um aplicativo Flutter que consome a API de GIFs do GIPHY. Ele permite qu
 ## Instruções de Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/flutter-giphy-app.git
+   git clone https://github.com/ManuelFerreira90/flutter-giphy-app.git
    cd app_search_gifs
    flutter pub get
 2. Obtenha uma chave de API do GIPHY [aqui.](https://developers.giphy.com/)
