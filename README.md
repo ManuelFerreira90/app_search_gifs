@@ -29,6 +29,7 @@ Este é um aplicativo Flutter que consome a API de GIFs do GIPHY. Ele permite qu
    ```bash
    flutter run --dart-define=apiKey=SUACHAVEDAAPI
    ```
+obs: tenha um dispostivo android conectado em modo depuração usb.
 
 ## Tecnologias Usadas
 - Flutter
